@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
-  <artifactId>MavenParentProject</artifactId>
-  <version>1.0.0</version>
+  <artifactId>HelloWorld</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>MavenParentProject</name>
-  <description>MavenParentProject</description>
+  <name>HelloWorld</name>
+  <description>HelloWorld</description>
   <modules>
     <module>HelloWorld_ESB</module>
     <module>HelloWorld_CAPP</module>
