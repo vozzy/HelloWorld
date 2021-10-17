@@ -1,3 +1,4 @@
 HelloWorld_ESB/target
 HelloWorld_CAPP/target
 HelloWorld_Docker/Resources/*.jks
+HelloWorld_Docker/CompositeApps/HelloWorld_CAPP_1.0.0-SNAPSHOT.car
