@@ -6,6 +6,9 @@
                 <format>{"greeting" : "Hello, World!"}</format>
                 <args/>
             </payloadFactory>
+            <log>
+                <property expression="$ctx:MessageID" name="test"/>
+            </log>
             <property name="ContentType" scope="axis2" type="STRING" value="application/json"/>
             <property name="messageType" scope="axis2" type="STRING" value="application/json"/>
             <respond/>

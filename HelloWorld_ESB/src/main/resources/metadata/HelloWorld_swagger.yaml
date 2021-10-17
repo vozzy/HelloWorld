@@ -6,7 +6,7 @@ info:
 servers:
 - url: http://localhost:8290/hello
 paths:
-  /:
+  /greeting:
     get:
       responses:
         default:
